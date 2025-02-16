@@ -14,7 +14,7 @@ page to view the favored elements.
 
 I used HTML5, CSS3, JS ES6, React and React Router DOM to implement the logic of the pages.
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://user-meetups-application.netlify.app/
 
